@@ -1,4 +1,4 @@
-platform: windows    
+platform: sdp-windows    
 inputs:
   - name: code
 run:
